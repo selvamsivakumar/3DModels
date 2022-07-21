@@ -1,2 +1,2 @@
 # 3DModels
- 3Dmodels for electroincs based hardware development purpose.
+ 3Dmodels for electronics based hardware development purpose.
